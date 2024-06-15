@@ -128,6 +128,9 @@ nav ul li a:hover{
     transition: .03s ease-in-out;
 }
 
+.social-contact .button .icon-n a {
+    color: #000000;
+}
 .social-contact .button:nth-child(1):hover .icon-n {
     background: rgb(7, 92, 161);
 }
